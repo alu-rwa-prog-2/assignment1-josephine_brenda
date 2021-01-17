@@ -1,16 +1,16 @@
 <<<<<<< HEAD
-   
+ author:josephine
 public class assignment1 {
 
 	public static void main(String[] args) {
-	    Scanner UserInput = new Scanner(System.in);
+	    Scanner UserInput = new Scanner(System.in);//this wwill all user to input variable
 		//calculatingPerimeter and area of rectangle
         System.out.println("Rectangle area and perimeter:");
 
-        System.out.println("Input the length: ");
+        System.out.println("Input the length: ");//this will display the missage to show the user that they have to insert lenght
         Float length = UserInput.nextFloat();
     
-        System.out.println("Input the width: ");
+        System.out.println("Input the width: ");//this will display the missage to show the user that they have to insert lenght
         Float width = UserInput.nextFloat();
 
         Float surface = length * width;
