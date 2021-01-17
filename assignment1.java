@@ -1,4 +1,4 @@
-//Authors: Brenda & Josephine
+//Author: Brenda
 
 import java.util.Scanner;
 
