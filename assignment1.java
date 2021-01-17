@@ -14,10 +14,10 @@ public class assignment1 {
         System.out.println("Input the width: ");//this will display the missage to show the user that they have to insert lenght
         Float width = UserInput.nextFloat();
 
-        Float surface = length * width;
+        Float surface = length * width;//this will calculate the surface of rectangle
         System.out.println("The area is:" + surface);//this will print the surface of rectangle
 
-        Float perimeter = 2*(length+width);
+        Float perimeter = 2*(length+width);//calculation of perimeter
         System.out.println("The perimeter is: " + perimeter);//this will print the perimeter
 
 
