@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Author:josephine
+// Authors: Brenda and Josephine
 import java.util.Scanner;
 public class assignment1 {
 
@@ -24,5 +23,3 @@ public class assignment1 {
 	}
 }
 
-
->>>>>>> 60b1ff244db145990b689b2be4b73073237eef69
